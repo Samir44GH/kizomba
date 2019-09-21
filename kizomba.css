@@ -10,15 +10,6 @@ p
 	font-style: oblique;
 }
 
-body
-{
-	background-size: 350px 350px;
-	background-image: url('kizomba4.png');
-	background-repeat: no-repeat;
-	background-position: top right;
-	position: relative;
-}
-
 h1
 {
 	font-size: 6em;
@@ -29,3 +20,13 @@ h1
 	color: rgb(205 202 202);
 }
 
+.taille
+{
+	width: 350px;
+	height: 350px;
+}
+
+body
+{
+	background-image: url(fdp.jpg);
+}
