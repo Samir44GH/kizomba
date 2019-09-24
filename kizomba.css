@@ -8,6 +8,7 @@ p
 	font-family: Constantia;
 	font-size: 2em;
 	font-style: oblique;
+	color: white;
 }
 
 h1
@@ -29,5 +30,7 @@ h1
 
 body
 {
-	background-image: url(fdp.png);
+	background-image: url(fdkizomba2.jpg);
+	background-attachment: fixed;
+	background-size: 100%;
 }
